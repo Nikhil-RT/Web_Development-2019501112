@@ -18,14 +18,18 @@
     color: white;
 }
 
-h1{
+h1 {
     text-align: left;
 }
 
-h2{
+h2 {
     text-align: left;
 }
 
+h3 {
+    color: solid black;
+    background-color: lightblue;
+}
 th{
     font-weight: bolder;
 }
