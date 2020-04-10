@@ -1,0 +1,39 @@
+.contact {
+    background-color: #f8f8f8;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+#footer {
+    background-color: #333;
+    padding: 25px;
+    color: white;
+}
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+h1{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+
+th{
+    font-weight: bolder;
+}
+
+marquee {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: solid black;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
