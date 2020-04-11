@@ -1,0 +1,16 @@
+$texta: left;
+$bgcolor: lightblue;
+
+
+h1 {
+    text-align: $texta;
+}
+
+h2 {
+    @extend h1;
+}
+
+h3 {
+    color: solid black;
+    background-color: $bgcolor;
+}
