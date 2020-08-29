@@ -1,0 +1,553 @@
+{
+    "about.html": [
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "PASTE",
+            "lines": 86,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:25:31",
+            "keyStrokeInfo": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>About Me</title>\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css\">\r\n    <link rel=\"stylesheet\" href=\"style1.css\">\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n\r\n<body>\r\n\r\n    <nav class=\"navbar navbar-inverse\">\r\n        <div class=\"container-fluid\">\r\n\r\n            <div class=\"navbar-header\">\r\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#myNavbar\"></button>\r\n                <a class=\"navbar-brand\" href=\"#\">Nikhil's Portfolio</a>\r\n            </div>\r\n\r\n            <div class=\"collapse navbar-collapse\" id=\"myNavbar\">\r\n                <ul class=\"nav navbar-nav\">\r\n                    <li class=\"active\"><a href=\"index.html\">Home</a></li>\r\n                    <li><a href=\"about.html\">About</a></li>\r\n                    <li><a href=\"work.html\">Work Gallery</a></li>\r\n                    <li><a href=\"contact.html\">Contact</a></li>\r\n                </ul>\r\n            </div>\r\n\r\n        </div>\r\n    </nav>\r\n\r\n    <div class=\"container\">\r\n        <h2>Education Background</h2><br>\r\n        <table class=\"table\">\r\n            <thead>\r\n                <tr>\r\n                    <th scope=\"col\">S.no</th>\r\n                    <th scope=\"col\">Education</th>\r\n                    <th scope=\"col\">Instituition</th>\r\n                    <th scope=\"col\">Aggregate</th>\r\n                </tr>\r\n            </thead>\r\n            <tbody>\r\n                <tr>\r\n                    <th scope=\"row\">1</th>\r\n                    <td>S.S.C</td>\r\n                    <td>Sri Chaitanya School</td>\r\n                    <td>8.8 GPA</td>\r\n                </tr>\r\n                <tr>\r\n                    <th scope=\"row\">2</th>\r\n                    <td>Intermediate</td>\r\n                    <td>Sri Chaitanya College</td>\r\n                    <td>8.8 GPA</td>\r\n                </tr>\r\n                <tr>\r\n                    <th scope=\"row\">3</th>\r\n                    <td>B.Tech</td>\r\n                    <td>JNTU Kakinada</td>\r\n                    <td>7 GPA</td>\r\n                </tr>\r\n                <tr>\r\n                    <th scope=\"row\">4</th>\r\n                    <td>Masters</td>\r\n                    <td>IIIT Hyderabad</td>\r\n                    <td>8 GPA</td>\r\n                </tr>\r\n            </tbody>\r\n        </table>\r\n        <h2>Projects</h2><br>\r\n        <ul class=\"list-group\">\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Hangman Project : Using Python</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Cleaning and EDA of Goodreads : Using Python</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Queues : Using Java</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Tiny Web Server : Using Python</p></li>\r\n        </ul>\r\n    </div>\r\n\r\n    <footer id=\"footer\" class=\"container-fluid text-center\">\r\n    <p style=\"font-size: xx-large;\">Projects and Education</p>\r\n    </footer>\r\n\r\n</body>\r\n\r\n</html>",
+            "position": "1,1"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "PASTE",
+            "lines": 26,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:25:31",
+            "keyStrokeInfo": "\r\n                    <td>6.5 GPA</td>\r\n                </tr>\r\n                <tr>\r\n                    <th scope=\"row\">4</th>\r\n                    <td>Masters</td>\r\n                    <td>IIIT Hyderabad</td>\r\n                    td>7.3 GPA</td>\r\n                </tr>\r\n            </tbody>\r\n        </table>\r\n        <h2>Projects</h2><br>\r\n        <ul class=\"list-group\">\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Hangman Project : Using Python</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Cleaning and EDA of Goodreads : Using Python</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Queues : Using Java</p></li>\r\n            <li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Tiny Web Server : Using Python</p></li>\r\n        </ul>\r\n    </div>\r\n\r\n    <footer id=\"footer\" class=\"container-fluid text-center\">\r\n    <p style=\"font-size: xx-large;\">Projects and Education</p>\r\n    </footer>\r\n\r\n</body>\r\n\r\n</html>\r\n",
+            "position": "60,43"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:29",
+            "keyStrokeInfo": "",
+            "position": "61,27"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:29",
+            "keyStrokeInfo": "",
+            "position": "61,26"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:34",
+            "keyStrokeInfo": "5",
+            "position": "61,26"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:36",
+            "keyStrokeInfo": "",
+            "position": "61,30"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:36",
+            "keyStrokeInfo": "",
+            "position": "61,29"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:36",
+            "keyStrokeInfo": "",
+            "position": "61,28"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:40",
+            "keyStrokeInfo": "%",
+            "position": "61,28"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:26:46",
+            "keyStrokeInfo": "<",
+            "position": "67,21"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:09",
+            "keyStrokeInfo": "\r\n            ",
+            "position": "76,112"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:10",
+            "keyStrokeInfo": "<li class=\"list-group-item\"><p style=\"font-weight: bolder;\">Tiny Web Server : Using Python</p></li>",
+            "position": "77,13"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:15",
+            "keyStrokeInfo": "",
+            "position": "77,102"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:15",
+            "keyStrokeInfo": "",
+            "position": "77,101"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:15",
+            "keyStrokeInfo": "",
+            "position": "77,100"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:15",
+            "keyStrokeInfo": "",
+            "position": "77,99"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,98"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,97"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,96"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,95"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,94"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,93"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,92"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,91"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,90"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,89"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,88"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,87"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,86"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,85"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,84"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,83"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,82"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,81"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,80"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,79"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,78"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,77"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,76"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:16",
+            "keyStrokeInfo": "",
+            "position": "77,75"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:17",
+            "keyStrokeInfo": "",
+            "position": "77,74"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:17",
+            "keyStrokeInfo": "",
+            "position": "77,73"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:19",
+            "keyStrokeInfo": "M",
+            "position": "77,73"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:19",
+            "keyStrokeInfo": "S",
+            "position": "77,74"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:19",
+            "keyStrokeInfo": "I",
+            "position": "77,75"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:20",
+            "keyStrokeInfo": "T",
+            "position": "77,76"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:20",
+            "keyStrokeInfo": " ",
+            "position": "77,77"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:21",
+            "keyStrokeInfo": "C",
+            "position": "77,78"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:21",
+            "keyStrokeInfo": "h",
+            "position": "77,79"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:21",
+            "keyStrokeInfo": "a",
+            "position": "77,80"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:22",
+            "keyStrokeInfo": "t",
+            "position": "77,81"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:24",
+            "keyStrokeInfo": "=",
+            "position": "77,82"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:25",
+            "keyStrokeInfo": "b",
+            "position": "77,83"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:26",
+            "keyStrokeInfo": "o",
+            "position": "77,84"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:27",
+            "keyStrokeInfo": "",
+            "position": "77,84"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:27",
+            "keyStrokeInfo": "",
+            "position": "77,83"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:27",
+            "keyStrokeInfo": "",
+            "position": "77,82"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:29",
+            "keyStrokeInfo": "-",
+            "position": "77,82"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:29",
+            "keyStrokeInfo": "B",
+            "position": "77,83"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:30",
+            "keyStrokeInfo": "o",
+            "position": "77,84"
+        },
+        {
+            "projectDir": "",
+            "fileName": "",
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Aug 29 2020 18:27:30",
+            "keyStrokeInfo": "t",
+            "position": "77,85"
+        }
+    ]
+}
